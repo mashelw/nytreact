@@ -1,1 +1,1 @@
-# nytreact
+# react-nyt-search-app
